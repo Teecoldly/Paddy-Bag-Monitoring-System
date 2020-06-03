@@ -74,7 +74,7 @@ void loop() {
   } else {
     Serial.println();
   }
-  application.http_get("http://35.187.234.212/", "/api", "key=" + Dervice_key + "&temp=" + String(Temperature) + "&moisture=" + String(Humidity) + "&pos_lat=" + latgps + "&pos_long=" + longgps);
+  application.http_get("http://34.87.128.17/", "/api", "key=" + Dervice_key + "&temp=" + String(Temperature) + "&moisture=" + String(Humidity) + "&pos_lat=" + latgps + "&pos_long=" + longgps);
 
   delay(5000);
   Serial.println("Going to sleep now");
