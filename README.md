@@ -5,3 +5,7 @@
  -[TinyGPS++](https://github.com/mikalhart/TinyGPSPlus) พัฒนาบนเวอร์ชั่น(V.1.0.2)<br>
  
  # การตั้งค่า <br>
+ ###### การตั้ง Key ของอุปกรณ์ (สามารถดูได้ที่หน้าเว็บไซค์) <br>
+```Ardunio 
+## String Dervice_key = "Key on web site"; // สามารถดู keyได้จากหน้า(หลังจากล็อกอิน) https://pmsiot.com/devicelist/
+```
