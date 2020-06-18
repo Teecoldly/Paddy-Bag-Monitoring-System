@@ -8,5 +8,5 @@
  ## ต้องเข้าไปตั้งค่าในไฟล์ main <br>
  ###### การตั้ง Key ของอุปกรณ์ (สามารถดูได้ที่หน้าเว็บไซค์) <br>
 ```Ardunio 
-## String Dervice_key = "Key on web site"; // สามารถดู keyได้จากหน้า(หลังจากล็อกอิน) https://pmsiot.com/devicelist/
+## String Dervice_key = "Key on web site"; // สามารถดู keyได้จากหน้า(หลังจากล็อกอิน) https://pmsiot.com/devicelist
 ```
