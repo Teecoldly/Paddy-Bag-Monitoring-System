@@ -12,7 +12,7 @@ HardwareSerial ss(1);
 String toupload;
 float Temperature = 0, Humidity = 0;
 String latgps = "0", longgps = "0";
-String Dervice_key = "Key on web site"; //get key on web site https://pmsiot.com/devicelist /
+String Dervice_key = "Key on web site"; //get key on web site https://pmsiot.com/devicelist
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);
